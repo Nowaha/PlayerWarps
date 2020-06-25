@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PlayerWarps2:jar">
+    <output-path>D:/Users/Noah/Documents/Minecraft Servers/Paper 1.13.2/plugins</output-path>
+    <root id="archive" name="PlayerWarps.jar">
+      <element id="module-output" name="PlayerWarps2" />
+    </root>
+  </artifact>
+</component>

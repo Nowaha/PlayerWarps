@@ -1,0 +1,13 @@
+name: PlayerWarps
+version: ${project.version}
+main: com.noahverkaik.playerwarps.PlayerWarps
+api-version: 1.13
+authors: [Nowaha]
+description: PlayerWarps 2.0
+website: www.noahverkaik.com
+commands:
+  playerwarps:
+    aliases:
+      - playerwarp
+      - pw
+      - pwarp
